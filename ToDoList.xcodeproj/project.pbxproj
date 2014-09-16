@@ -13,6 +13,7 @@
 		3D0EDF5119BD56270089FC9D /* ToDoListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0EDF5019BD56270089FC9D /* ToDoListTests.swift */; };
 		3D6209E019C6656E00431C69 /* ToDoItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6209DF19C6656E00431C69 /* ToDoItemTableViewController.swift */; };
 		3D6C454919C6A09800356C4D /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6C454819C6A09800356C4D /* AddToDoViewController.swift */; };
+		3D6C454B19C7C38B00356C4D /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6C454A19C7C38B00356C4D /* ToDoItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +38,7 @@
 		3D6209DF19C6656E00431C69 /* ToDoItemTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDoItemTableViewController.swift; sourceTree = "<group>"; };
 		3D6C454719C69FCB00356C4D /* ToDoItemTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ToDoItemTableViewController.h; sourceTree = "<group>"; };
 		3D6C454819C6A09800356C4D /* AddToDoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
+		3D6C454A19C7C38B00356C4D /* ToDoItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				3D6209DF19C6656E00431C69 /* ToDoItemTableViewController.swift */,
 				3D6C454719C69FCB00356C4D /* ToDoItemTableViewController.h */,
 				3D0EDF4119BD56270089FC9D /* Main.storyboard */,
+				3D6C454A19C7C38B00356C4D /* ToDoItem.swift */,
 				3D6C454819C6A09800356C4D /* AddToDoViewController.swift */,
 				3D0EDF4419BD56270089FC9D /* Images.xcassets */,
 				3D0EDF3B19BD56270089FC9D /* Supporting Files */,
@@ -215,6 +218,7 @@
 			files = (
 				3D6209E019C6656E00431C69 /* ToDoItemTableViewController.swift in Sources */,
 				3D6C454919C6A09800356C4D /* AddToDoViewController.swift in Sources */,
+				3D6C454B19C7C38B00356C4D /* ToDoItem.swift in Sources */,
 				3D0EDF3E19BD56270089FC9D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
